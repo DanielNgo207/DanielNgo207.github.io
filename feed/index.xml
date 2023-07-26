@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 25 Apr 2021 15:56:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">180946562</site>	<item>
+		<title>Research</title>
+		<link>/research/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=research</link>
+		
+		<dc:creator><![CDATA[tuandungngo207]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2020 22:33:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">//?p=265</guid>
+
+					<description><![CDATA[Incentivizing Bandit Exploration: Recommendations as Instruments [workshop paper][poster]Incentives in Machine Learning Workshop at International Conference on Machine Learning (IML@ICML) 2020Mechanism Design for Social Good Workshop (MD4SG) 2020Daniel Ngo, Logan Stapleton, Nicole Immorlica, Vasilis Syrgkanis, Zhiwei Steven Wu Attentional autoencoder for weighted implicit collaborative filtering Proceedings of the 2019 2nd International Conference on Computational Intelligence and Intelligent SystemsHoang-Vu Dang, &#8230; <p class="link-more"><a href="/research/" class="more-link">Continue reading<span class="screen-reader-text"> "Research"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Incentivizing Bandit Exploration: Recommendations as Instruments </strong>[<a href="https://gradanovic.github.io/incentives_in_ML_icml2020_ws/papers/IML2020_paper_17.pdf">workshop paper</a>][poster]<br>Incentives in Machine Learning Workshop at International Conference on Machine Learning (<a href="https://gradanovic.github.io/incentives_in_ML_icml2020_ws/index.html">IML@ICML</a>) 2020<br>Mechanism Design for Social Good Workshop (<a href="http://md4sg.com/workshop/MD4SG20/index.html">MD4SG</a>) 2020<br><em>Daniel Ngo</em>, Logan Stapleton, Nicole Immorlica, Vasilis Syrgkanis, Zhiwei Steven Wu</p>
+
+
+
+<p><strong>Attentional autoencoder for weighted implicit collaborative filtering</strong>           Proceedings of the 2019 2nd International Conference on Computational Intelligence and Intelligent Systems<br>Hoang-Vu Dang, <em>Dung Ngo</em></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">265</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/256-2/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=256-2</link>
+		
+		<dc:creator><![CDATA[tuandungngo207]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2020 22:13:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">//?p=256</guid>
+
+					<description><![CDATA[I am a second year PhD student at University of Minnesota, co-advised by Professors Steven Wu and Maria Gini. I studied computer science and math at Dickinson College for my undergrad. I am interested in machine learning and algorithms. My current work focuses on bandit algorithms and differential privacy.]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-media-text alignwide is-vertically-aligned-center" style="grid-template-columns:34% auto"><figure class="wp-block-media-text__media"><img decoding="async" loading="lazy" width="640" height="640" src="https://i0.wp.com/dtngo.com//wp-content/uploads/2020/07/034-1.jpg?resize=640%2C640&#038;ssl=1" alt="" class="wp-image-263" srcset="https://i0.wp.com/dtngo.com/wp-content/uploads/2020/07/034-1.jpg?w=787&amp;ssl=1 787w, https://i0.wp.com/dtngo.com/wp-content/uploads/2020/07/034-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/dtngo.com/wp-content/uploads/2020/07/034-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/dtngo.com/wp-content/uploads/2020/07/034-1.jpg?resize=768%2C768&amp;ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></figure><div class="wp-block-media-text__content">
+<p>I am a second year PhD student at <a href="https://twin-cities.umn.edu/">University of Minnesota</a>, co-advised by Professors <a href="https://zstevenwu.com/">Steven Wu</a> and <a href="https://www-users.cs.umn.edu/~gini/">Maria Gini</a>. I studied computer science and math at <a href="http://dickinson.edu/">Dickinson College</a> for my undergrad. </p>
+
+
+
+<p>I am interested in machine learning and algorithms. My current work focuses on bandit algorithms and differential privacy. </p>
+</div></div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">256</post-id>	</item>
+	</channel>
+</rss>
